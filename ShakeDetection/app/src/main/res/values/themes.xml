@@ -1,9 +1,17 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
+    <style name="Base.Theme.Profile" parent="Theme.AppCompat.Light.DarkActionBar">
+=======
     <style name="Base.Theme.ShakeDetection" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> a889219 (Add shake detection interface)
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+<<<<<<< HEAD
+    <style name="Theme.Profile" parent="Base.Theme.Profile" />
+=======
     <style name="Theme.ShakeDetection" parent="Base.Theme.ShakeDetection" />
+>>>>>>> a889219 (Add shake detection interface)
 </resources>

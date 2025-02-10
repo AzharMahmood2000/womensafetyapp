@@ -19,6 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
+rootProject.name = "Profile"
+=======
 rootProject.name = "Shake Detection"
+>>>>>>> a889219 (Add shake detection interface)
 include(":app")
  

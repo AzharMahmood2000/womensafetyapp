@@ -3,12 +3,21 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
+    namespace = "com.example.profile"
+    compileSdk = 35
+
+    defaultConfig {
+        applicationId = "com.example.profile"
+        minSdk = 21
+=======
     namespace = "com.example.shakedetection"
     compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.shakedetection"
         minSdk = 24
+>>>>>>> a889219 (Add shake detection interface)
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"

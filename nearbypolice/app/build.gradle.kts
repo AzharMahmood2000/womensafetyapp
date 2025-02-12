@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.shakedetection"
+    namespace = "com.example.police"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.shakedetection"
+        applicationId = "com.example.police"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -37,6 +37,7 @@ dependencies {
     implementation(libs.material)
     implementation(libs.activity)
     implementation(libs.constraintlayout)
+    implementation(libs.play.services.maps)
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)

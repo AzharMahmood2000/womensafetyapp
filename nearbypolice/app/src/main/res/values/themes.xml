@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.ShakeDetection" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.Nearbypolice" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.ShakeDetection" parent="Base.Theme.ShakeDetection" />
+    <style name="Theme.Nearbypolice" parent="Base.Theme.Nearbypolice" />
 </resources>

@@ -4,16 +4,36 @@
     <selectionStates>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
+ sharoobini
         <DropdownSelection timestamp="2025-02-13T08:59:52.171654700Z">
           <Target type="DEFAULT_BOOT">
             <handle>
               <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\V.Deshanth\.android\avd\Pixel_8_Pro_API_35_3.avd" />
+
+      </SelectionState>
+      <SelectionState runConfigName="MainActivity">
+        <option name="selectionMode" value="DROPDOWN" />
+        <DropdownSelection timestamp="2025-02-11T08:53:03.059762300Z">
+          <Target type="DEFAULT_BOOT">
+            <handle>
+              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\V.Deshanth\.android\avd\Pixel_8_Pro_API_35_2.avd" />
+              main
             </handle>
           </Target>
         </DropdownSelection>
         <DialogSelection />
       </SelectionState>
+ sharoobini
       <SelectionState runConfigName="SafeZone">
+
+      <SelectionState runConfigName="Register">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="Login">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="Welcome">
+ main
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>

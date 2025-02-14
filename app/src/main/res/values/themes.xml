@@ -1,9 +1,17 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+ sharoobini
     <style name="Base.Theme.WomensSafety" parent="Theme.Material3.DayNight.NoActionBar">
+
+    <style name="Base.Theme.Home" parent="Theme.Material3.DayNight.NoActionBar">
+    main
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+ sharoobini
     <style name="Theme.WomensSafety" parent="Base.Theme.WomensSafety" />
+
+    <style name="Theme.Home" parent="Base.Theme.Home" />
+    main
 </resources>

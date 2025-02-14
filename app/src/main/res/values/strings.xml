@@ -1,3 +1,7 @@
 <resources>
+ sharoobini
     <string name="app_name">Womens safety</string>
+
+    <string name="app_name">Home</string>
+    main
 </resources>

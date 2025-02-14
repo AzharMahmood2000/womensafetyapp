@@ -19,6 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
+ sharoobini
+rootProject.name = "Womens safety"
+
 rootProject.name = "Home"
+   main
 include(":app")
  

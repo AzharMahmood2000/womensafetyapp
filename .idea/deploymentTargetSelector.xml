@@ -4,6 +4,7 @@
     <selectionStates>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
+<<<<<<< HEAD
  sharoobini
         <DropdownSelection timestamp="2025-02-13T08:59:52.171654700Z">
           <Target type="DEFAULT_BOOT">
@@ -35,6 +36,14 @@
       <SelectionState runConfigName="Welcome">
  main
         <option name="selectionMode" value="DROPDOWN" />
+=======
+      </SelectionState>
+      <SelectionState runConfigName="Helpline">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="MainActivity">
+        <option name="selectionMode" value="DROPDOWN" />
+>>>>>>> d197538 (Initial commit)
       </SelectionState>
     </selectionStates>
   </component>

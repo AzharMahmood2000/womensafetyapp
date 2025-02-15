@@ -19,6 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
  sharoobini
 rootProject.name = "Womens safety"
 
@@ -26,3 +27,7 @@ rootProject.name = "Home"
    main
 include(":app")
  
+=======
+rootProject.name = "WomanSafetyApp"
+include(":app")
+>>>>>>> d197538 (Initial commit)

@@ -1,7 +1,11 @@
 <resources>
+<<<<<<< HEAD
  sharoobini
     <string name="app_name">Womens safety</string>
 
     <string name="app_name">Home</string>
     main
+=======
+    <string name="app_name">HER SHIELD</string>
+>>>>>>> d197538 (Initial commit)
 </resources>

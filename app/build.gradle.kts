@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
  sharoobini
     namespace = "com.example.womenssafety"
     compileSdk = 35
@@ -16,6 +17,13 @@ android {
     defaultConfig {
         applicationId = "com.example.home"
      main
+=======
+    namespace = "com.example.womansafetyapp"
+    compileSdk = 35
+
+    defaultConfig {
+        applicationId = "com.example.womansafetyapp"
+>>>>>>> d197538 (Initial commit)
         minSdk = 35
         targetSdk = 35
         versionCode = 1

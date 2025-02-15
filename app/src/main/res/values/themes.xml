@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
  sharoobini
@@ -5,13 +6,22 @@
 
     <style name="Base.Theme.Home" parent="Theme.Material3.DayNight.NoActionBar">
     main
+=======
+ <resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WomanSafetyApp" parent="Theme.AppCompat.Light.NoActionBar">
+>>>>>>> d197538 (Initial commit)
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+<<<<<<< HEAD
  sharoobini
     <style name="Theme.WomensSafety" parent="Base.Theme.WomensSafety" />
 
     <style name="Theme.Home" parent="Base.Theme.Home" />
     main
+=======
+    <style name="Theme.WomanSafetyApp" parent="Base.Theme.WomanSafetyApp" />
+>>>>>>> d197538 (Initial commit)
 </resources>

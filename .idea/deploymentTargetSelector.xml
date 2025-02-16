@@ -4,8 +4,9 @@
     <selectionStates>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
-<<<<<<< HEAD
- sharoobini
+     HEAD
+     HEAD
+ 
         <DropdownSelection timestamp="2025-02-13T08:59:52.171654700Z">
           <Target type="DEFAULT_BOOT">
             <handle>
@@ -24,7 +25,7 @@
         </DropdownSelection>
         <DialogSelection />
       </SelectionState>
- sharoobini
+ 
       <SelectionState runConfigName="SafeZone">
 
       <SelectionState runConfigName="Register">
@@ -36,15 +37,30 @@
       <SelectionState runConfigName="Welcome">
  main
         <option name="selectionMode" value="DROPDOWN" />
-=======
+
+     0c74e7ad17046f4e1807426bf580e637d14be914
       </SelectionState>
       <SelectionState runConfigName="Helpline">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
       <SelectionState runConfigName="MainActivity">
         <option name="selectionMode" value="DROPDOWN" />
->>>>>>> d197538 (Initial commit)
+     HEAD
       </SelectionState>
     </selectionStates>
   </component>
 </project>
+ HEAD
+ HEAD
+
+
+ 90a8a67 (Update deploymentTargetSelector.xml)
+
+ ed7e1a4 (Update deploymentTargetSelector.xml)
+
+ d197538 (Initial commit)
+      </SelectionState>
+    </selectionStates>
+  </component>
+</project>
+      0c74e7ad17046f4e1807426bf580e637d14be914

@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 @rem
 @rem Copyright 2015 the original author or authors.
 @rem
@@ -89,6 +91,7 @@ if "%OS%"=="Windows_NT" endlocal
 
 :omega
 =======
+>>>>>>> 0c74e7ad17046f4e1807426bf580e637d14be914
 @rem
 @rem Copyright 2015 the original author or authors.
 @rem
@@ -178,4 +181,7 @@ exit /b 1
 if "%OS%"=="Windows_NT" endlocal
 
 :omega
+<<<<<<< HEAD
+=======
 >>>>>>> d197538 (Initial commit)
+>>>>>>> 0c74e7ad17046f4e1807426bf580e637d14be914

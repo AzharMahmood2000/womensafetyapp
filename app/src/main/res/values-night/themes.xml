@@ -1,14 +1,18 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-<<<<<<< HEAD
- sharoobini
+ HEAD
+    <style name="Base.Theme.WomanSafetyApp" parent="Theme.AppCompat.Light.NoActionBar">
+
+ HEAD
+ 
     <style name="Base.Theme.WomensSafety" parent="Theme.Material3.DayNight.NoActionBar">
 
     <style name="Base.Theme.Home" parent="Theme.Material3.DayNight.NoActionBar">
   main
-=======
+
     <style name="Base.Theme.WomanSafetyApp" parent="Theme.AppCompat.Light.NoActionBar">
->>>>>>> d197538 (Initial commit)
+ d197538 (Initial commit)
+ 0c74e7ad17046f4e1807426bf580e637d14be914
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>

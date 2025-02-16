@@ -3,8 +3,10 @@ plugins {
 }
 
 android {
-<<<<<<< HEAD
- sharoobini
+     HEAD
+
+      HEAD
+
     namespace = "com.example.womenssafety"
     compileSdk = 35
 
@@ -17,13 +19,16 @@ android {
     defaultConfig {
         applicationId = "com.example.home"
      main
-=======
+      0c74e7ad17046f4e1807426bf580e637d14be914
     namespace = "com.example.womansafetyapp"
     compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.womansafetyapp"
->>>>>>> d197538 (Initial commit)
+      HEAD
+
+ d197538 (Initial commit)
+ 0c74e7ad17046f4e1807426bf580e637d14be914
         minSdk = 35
         targetSdk = 35
         versionCode = 1

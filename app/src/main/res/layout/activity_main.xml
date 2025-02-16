@@ -3,7 +3,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
-<<<<<<< HEAD
+    HEAD
+   HEAD
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
@@ -115,7 +116,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/homeicon3" />
-=======
+    0c74e7ad17046f4e1807426bf580e637d14be914
     android:background="@drawable/back6"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -286,5 +287,8 @@
 
 
 
->>>>>>> d197538 (Initial commit)
+ HEAD
+
+ d197538 (Initial commit)
+ 0c74e7ad17046f4e1807426bf580e637d14be914
 </androidx.constraintlayout.widget.ConstraintLayout>

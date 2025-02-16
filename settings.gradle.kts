@@ -19,16 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-<<<<<<< Updated upstream
-=======
-HEAD
- sharoobini
-rootProject.name = "Womens safety"
-
-rootProject.name = "Home"
-   main
-include(":app")
-
->>>>>>> Stashed changes
 rootProject.name = "WomanSafetyApp"
 include(":app")

@@ -1,5 +1,13 @@
 [versions]
+<<<<<<< Updated upstream
 agp = "8.7.2"
+=======
+HEAD
+agp = "8.7.2"
+
+agp = "8.7.2"
+d197538 (Initial commit)
+>>>>>>> Stashed changes
 junit = "4.13.2"
 junitVersion = "1.2.1"
 espressoCore = "3.6.1"
@@ -19,3 +27,4 @@ constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayo
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
+

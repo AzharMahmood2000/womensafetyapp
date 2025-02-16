@@ -4,12 +4,48 @@
     <selectionStates>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
+     HEAD
+     HEAD
+ 
+        <DropdownSelection timestamp="2025-02-13T08:59:52.171654700Z">
+          <Target type="DEFAULT_BOOT">
+            <handle>
+              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\V.Deshanth\.android\avd\Pixel_8_Pro_API_35_3.avd" />
+
+      </SelectionState>
+      <SelectionState runConfigName="MainActivity">
+        <option name="selectionMode" value="DROPDOWN" />
+        <DropdownSelection timestamp="2025-02-11T08:53:03.059762300Z">
+          <Target type="DEFAULT_BOOT">
+            <handle>
+              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\V.Deshanth\.android\avd\Pixel_8_Pro_API_35_2.avd" />
+              main
+            </handle>
+          </Target>
+        </DropdownSelection>
+        <DialogSelection />
+      </SelectionState>
+ 
+      <SelectionState runConfigName="SafeZone">
+
+      <SelectionState runConfigName="Register">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="Login">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="Welcome">
+ main
+        <option name="selectionMode" value="DROPDOWN" />
+
+     0c74e7ad17046f4e1807426bf580e637d14be914
       </SelectionState>
       <SelectionState runConfigName="Helpline">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
       <SelectionState runConfigName="MainActivity">
         <option name="selectionMode" value="DROPDOWN" />
+     HEAD
       </SelectionState>
     </selectionStates>
   </component>
@@ -21,3 +57,10 @@
  90a8a67 (Update deploymentTargetSelector.xml)
 
  ed7e1a4 (Update deploymentTargetSelector.xml)
+
+ d197538 (Initial commit)
+      </SelectionState>
+    </selectionStates>
+  </component>
+</project>
+      0c74e7ad17046f4e1807426bf580e637d14be914

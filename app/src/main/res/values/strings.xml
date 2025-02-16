@@ -1,3 +1,14 @@
 <resources>
+ HEAD
     <string name="app_name">HER SHIELD</string>
+ HEAD
+ 
+    <string name="app_name">Womens safety</string>
+
+    <string name="app_name">Home</string>
+    main
+
+    <string name="app_name">HER SHIELD</string>
+ d197538 (Initial commit)
+ 0c74e7ad17046f4e1807426bf580e637d14be914
 </resources>

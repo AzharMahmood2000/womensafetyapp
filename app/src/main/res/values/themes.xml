@@ -1,9 +1,36 @@
+ HEAD
  <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.WomanSafetyApp" parent="Theme.AppCompat.Light.NoActionBar">
+ HEAD
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <style name="Base.Theme.WomensSafety" parent="Theme.Material3.DayNight.NoActionBar">
+
+    <style name="Base.Theme.Home" parent="Theme.Material3.DayNight.NoActionBar">
+    main
+
+ <resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WomanSafetyApp" parent="Theme.AppCompat.Light.NoActionBar">
+ d197538 (Initial commit)
+ 0c74e7ad17046f4e1807426bf580e637d14be914
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+ HEAD
     <style name="Theme.WomanSafetyApp" parent="Base.Theme.WomanSafetyApp" />
+
+ HEAD
+ 
+    <style name="Theme.WomensSafety" parent="Base.Theme.WomensSafety" />
+
+    <style name="Theme.Home" parent="Base.Theme.Home" />
+    main
+
+    <style name="Theme.WomanSafetyApp" parent="Base.Theme.WomanSafetyApp" />
+ d197538 (Initial commit)
+ 0c74e7ad17046f4e1807426bf580e637d14be914
 </resources>
